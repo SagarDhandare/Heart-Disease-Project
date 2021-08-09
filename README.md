@@ -9,8 +9,8 @@ This repository consists of files required to deploy a Machine Learning Web App 
 
 ## Demo
 
-<img src="">
-<img src="">
+<img src="https://raw.githubusercontent.com/SagarDhandare/Heart-Disease-Project/main/Images/gif.gif">
+<img src="https://raw.githubusercontent.com/SagarDhandare/Heart-Disease-Project/main/Images/gif1.gif">
 
 ## Tech Stack
 
