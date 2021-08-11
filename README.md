@@ -12,9 +12,23 @@ This repository consists of files required to deploy a Machine Learning Web App 
 <img src="https://raw.githubusercontent.com/SagarDhandare/Heart-Disease-Project/main/Images/gif.gif">
 <img src="https://raw.githubusercontent.com/SagarDhandare/Heart-Disease-Project/main/Images/gif1.gif">
 
+## Dataset
+
+[Heart Disease Dataset](https://www.kaggle.com/ronitf/heart-disease-uci)
+
+
 ## Tech Stack
 
-Python, Machine Learning, Flask, HTML, Pycharm, Heroku
+- Python
+- Machine Learning
+- Pandas
+- Numpy
+- Scikit-learn
+- Flask
+- HTML
+- CSS
+- Pycharm
+- Heroku
 
   
 ## Running Tests
@@ -98,3 +112,4 @@ If you have any feedback, please reach out to me at https://www.linkedin.com/in/
 
 Please do ⭐ the repository, if you like this.😊
 
+Thank you ❤
